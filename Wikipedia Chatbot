@@ -224,38 +224,3 @@ def queryLoop():
     print "\nSo long!\n"
 
 queryLoop()
-
-
-# Example Output:
-# Welcome to the Wikipedia chatbot!
-
-# Your query?what is the rgb value of black
-# (0, 0, 0)
-
-# Your query?what is the rgb value of cobalt blue
-# (0, 71, 171)
-
-# Your query?what is the rgb value of maroon
-# (128, 0, 0)
-
-# Your query?what is the decision date of case  O. J. Simpson Murder Case
-# October 3, 1995
-
-# Your query?what is the decision date of case Brown v. Board of Education
-# May 17, 1954
-
-# Your query?what is the decision date of case Roe v. Wade
-# January 22, 1973
-
-# Your query?what is the hex triplet of maroon
-# #800000
-
-# Your query?what is the hex triplet of black
-# #000000
-
-# Your query?what is the hex triplet of Lavender (color)
-# #E6E6FA
-
-# Your query?bye
-
-# So long!
