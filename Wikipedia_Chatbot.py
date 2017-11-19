@@ -150,7 +150,7 @@ def birthDate(argList):
 
 def polarRadius(argList):
     """planetRadius takes a list of arguments (returned from the match function).
-    It takes the name of the person and returns that person's birth date"""
+    It takes the name of the planet and returns that planet's polar radius"""
     planet = argList[0]
     return [get_planet_radius(planet)]
 
